@@ -5,6 +5,9 @@ public class MyDisplayClass {
 		System.out.println("Hi Lipsa!!!!!!");
 		
 		System.out.println("Welcome to My little world.....");
+		
+		//adding Home
+		System.out.println("Home");
 
 	}
 
