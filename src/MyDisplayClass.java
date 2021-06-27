@@ -8,6 +8,9 @@ public class MyDisplayClass {
 		
 		//adding Home
 		System.out.println("Home");
+		
+		//adding Car
+		System.out.println("Car");
 
 	}
 
