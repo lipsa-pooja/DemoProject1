@@ -11,6 +11,9 @@ public class MyDisplayClass {
 		
 		//adding Car
 		System.out.println("Car");
+		
+		//Adding code from github
+		System.out.println("bike");
 
 	}
 
